@@ -6,7 +6,7 @@
 
 <p>Program for display a tip from a list. The tip is chosen randomized and will never repeat yourself until the end of the list.</p>
 
-The main code is the file "display-tip.js" where one function have the responsability of listen the "click" event and trigger others 4 functions (file: js/functions):
+The main code is the file <code>display-tip.js</code> where one function have the responsability of listen the "click" event and trigger others 4 functions (file: js/functions):
 
 <ul>
   <li>checkNum.js = call the function "randomGenerator" (to generate a random number) and check if the random number wasn't repeated.</li>
