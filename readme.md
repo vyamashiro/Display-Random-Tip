@@ -1,12 +1,12 @@
+<h1 align="center">Display Random Tip</h1>
+
+<p>Program for display a tip from a list. The tip is chosen randomized and will never repeat yourself until the end of the list.</p>
+
 <figure>
   <img src="Screen.JPG">
 </figure>
 
-<h1> Description </h1>
-
-<p>Program for display a tip from a list. The tip is chosen randomized and will never repeat yourself until the end of the list.</p>
-
-The main code is the file <code>display-tip.js</code> where one function have the responsability of listen the "click" event and trigger others 4 functions (file <code>js/functions</code>):
+<p>The main code is the file <code>display-tip.js</code> where one function have the responsability of listen the "click" event and trigger others 4 functions (file <code>js/functions</code>):</p>
 
 <ul>
   <li><code>checkNum</code> = call the function <code>randomGenerator</code> (to generate a random number) and check if the random number wasn't repeated.</li>
